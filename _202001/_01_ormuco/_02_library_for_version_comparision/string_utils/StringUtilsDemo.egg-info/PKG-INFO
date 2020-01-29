@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: StringUtilsDemo
+Version: 0.0.1
+Summary: An awesome package that does something
+Home-page: http://pypi.python.org/pypi/StringUtilsDemo/
+Author: Amandeep
+Author-email: deep.aman91@gmail.com
+License: UNKNOWN
+Description: long_description: An awesome package that does something
+Platform: UNKNOWN
